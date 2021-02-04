@@ -12,7 +12,7 @@ This project deals with development of two android applications:
 * Backend : **JAVA**
 * Database : **Firebase** & **SQLite**
 * Android Studio
-* Android SDK
+* Android SDK tools
 
 ## Features :
 * Account Sign Up/ Login using personal details or **Social Login**
