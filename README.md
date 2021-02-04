@@ -10,9 +10,12 @@ This project deals with development of two android applications:
 ## Technologies Used :
 * Frontend : **XML**
 * Backend : **JAVA**
+* Database : **Firebase** & **SQLite**
+* Android Studio
+* Android SDK
 
 ## Features :
-* Account Sign Up/ Login
+* Account Sign Up/ Login using personal details or **Social Login**
 * Menu Page
 * Food detail page
 * Cart - Add / Remove
