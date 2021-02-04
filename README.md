@@ -1,11 +1,15 @@
 # Bite Size
 
-Food delivery android application for ordering food from a particular restaurant. 
+Food delivery android application for ordering food from a particular restaurant.
+
+This project deals with development of two android applications:
+* **Bite Size** - For ordering food (customer side).
+* **Bits Size Delivery** - For delivery of food (delivery boy side).
 
 
 ## Technologies Used :
-* Frontend : XML
-* Backend : JAVA
+* Frontend : **XML**
+* Backend : **JAVA**
 
 ## Features :
 * Account Sign Up/ Login
