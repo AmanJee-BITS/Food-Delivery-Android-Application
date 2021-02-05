@@ -68,5 +68,5 @@ The commit message:
 
 ## License
 
-Bite Size is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+Bite Size is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License).
 
