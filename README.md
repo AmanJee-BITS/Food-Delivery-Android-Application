@@ -3,8 +3,8 @@
 Food delivery android application for ordering food from a particular restaurant.
 
 This project deals with development of two android applications:
-* **Bite Size** - For ordering food (customer side).
-* **Bits Size Delivery** - For delivery of food (delivery boy side).
+* [Bite Size](https://github.com/AmanJee-BITS/Food-Delivery-Android-Application) - For ordering food (customer side).
+* [Bits Size Delivery](https://github.com/AmanJee-BITS/Food-Delivery-Android-Application-ServerSide) - For delivery of food (delivery boy side).
 
 
 ## Technologies Used :
@@ -68,5 +68,5 @@ The commit message:
 
 ## License
 
-Bite Size is licensed under [MIT LICENSE](https://choosealicense.com/licenses/mit/)
+Bite Size is licensed under the [MIT LICENSE](https://choosealicense.com/licenses/mit/)
 
