@@ -66,4 +66,7 @@ The commit message:
 - is clear about what part of the code is affected -- often by prefixing with the name of the subsystem and a colon, like "server: ..." or "docs: ...".
 - is a complete sentence, ending with a period.
 
+## License
+
+Bite Size is licensed under [MIT LICENSE](https://choosealicense.com/licenses/mit/)
 
