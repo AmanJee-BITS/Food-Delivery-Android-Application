@@ -1,4 +1,4 @@
-# Bite Size [![MIT Licensed](https://img.shields.io/github/license/AmanJee-BITS/Food-Delivery-Android-Application)](license)
+# Bite Size [![MIT Licensed](https://img.shields.io/github/license/AmanJee-BITS/Food-Delivery-Android-Application)](https://choosealicense.com/licenses/mit/)
 
 Food delivery android application for ordering food from a particular restaurant.
 
