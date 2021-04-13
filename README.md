@@ -6,6 +6,9 @@ This project deals with development of two android applications:
 * [Bite Size](https://github.com/AmanJee-BITS/Food-Delivery-Android-Application) - For ordering food (customer side).
 * [Bite Size Delivery](https://github.com/AmanJee-BITS/Food-Delivery-Android-Application-ServerSide) - For delivery of food (delivery person side).
 
+<p align="center">
+<img src="/logo.jpg" width="550" height="500">
+</p> </br>
 
 ## Technologies Used :
 * Frontend : **XML**
