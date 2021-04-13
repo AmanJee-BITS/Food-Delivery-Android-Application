@@ -7,7 +7,7 @@ This project deals with development of two android applications:
 * [Bite Size Delivery](https://github.com/AmanJee-BITS/Food-Delivery-Android-Application-ServerSide) - For delivery of food (delivery person side).
 
 <p align="center">
-<img src="/app/src/main/ic_launcher-playstore.png" width="550" height="500">
+<img src="/app/src/main/ic_launcher-playstore.png" width="400" height="400">
 </p> </br>
 
 ## Technologies Used :
