@@ -6,6 +6,8 @@ This project deals with development of two android applications:
 * [Bite Size](https://github.com/AmanJee-BITS/Food-Delivery-Android-Application) - For ordering food (customer side).
 * [Bite Size Delivery](https://github.com/AmanJee-BITS/Food-Delivery-Android-Application-ServerSide) - For delivery of food (delivery person side).
 
+## Logo :
+<br>
 <p align="center">
 <img src="/app/src/main/ic_launcher-playstore.png" width="300" height="300">
 </p> </br>
