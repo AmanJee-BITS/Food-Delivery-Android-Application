@@ -1,42 +1,41 @@
 {
   "project_info": {
-    "project_number": "563063526742",
-    "firebase_url": "https://app2-a2385.firebaseio.com",
-    "project_id": "app2-a2385",
-    "storage_bucket": "app2-a2385.appspot.com"
+    "project_number": "680372154986",
+    "project_id": "food-delivery-android-48516",
+    "storage_bucket": "food-delivery-android-48516.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:563063526742:android:d85190e7a03bba2e6732f7",
+        "mobilesdk_app_id": "1:680372154986:android:3f716acda8aba4b9d0d013",
         "android_client_info": {
           "package_name": "com.example.app2"
         }
       },
       "oauth_client": [
         {
-          "client_id": "563063526742-q8v2dr16d8e4prgs9scbrnvehmcqt4qb.apps.googleusercontent.com",
+          "client_id": "680372154986-o0l3nke9md2i18it8m69mtnt3n7bfmnj.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.app2",
-            "certificate_hash": "2e3df93a67a2130214ace55109a479a4a3e9d383"
+            "certificate_hash": "898e65a7baeae99a0fb537c9b9a85bfd365fbea5"
           }
         },
         {
-          "client_id": "563063526742-md9faq2hbeihntikp81spcgtsl2pj7gi.apps.googleusercontent.com",
+          "client_id": "680372154986-v52fva2mk2696gpjrancep0t9cnob65r.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB5mjBEwBJpxYC5sFVs7F46d-qr_Nejn-U"
+          "current_key": "AIzaSyDiWt8I7NnPtvvXD9NU2Jpa1hmtqXLf4lk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "563063526742-md9faq2hbeihntikp81spcgtsl2pj7gi.apps.googleusercontent.com",
+              "client_id": "680372154986-v52fva2mk2696gpjrancep0t9cnob65r.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
